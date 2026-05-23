@@ -26,7 +26,7 @@ public class trapped_rain_water {
 
             trapped_Water = trapped_Water + (waterLevel - height[i]);
         }
-f
+
         return trapped_Water;
         
     }
